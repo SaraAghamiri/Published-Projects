@@ -1,6 +1,6 @@
 # Published-Projects
 
-My Main Expertise 
+My Main Expertise: 
 
 Bioinformatics and Programming
 
@@ -13,3 +13,10 @@ Computational Modeling
 Artificial intelligence
 
 Human Digital Twins
+
+
+Fields I have worked on:
+
+Immunology, oncology, Multifactorial diseases,
+
+
